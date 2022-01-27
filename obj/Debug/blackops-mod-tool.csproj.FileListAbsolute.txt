@@ -1,0 +1,14 @@
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.csproj.AssemblyReference.cache
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops_mod_tool.Form1.resources
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops_mod_tool.Properties.Resources.resources
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.csproj.GenerateResource.cache
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\bin\Debug\blackops-mod-tool.exe.config
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\bin\Debug\blackops-mod-tool.exe
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\bin\Debug\blackops-mod-tool.pdb
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\bin\Debug\JRPC.dll
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\bin\Debug\XRPC.dll
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.csproj.CopyComplete
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.exe
+C:\Users\Hunter\Documents\Coding Projects\blackops-mod-tool\blackops-mod-tool\obj\Debug\blackops-mod-tool.pdb
